@@ -14,7 +14,7 @@ Installation
 Clone this repository to your local machine:
 bash
 Copy code
-git clone https://github.com/your-username/refresh-me.git  
+git clone https://github.com/jiivas/refresh-me.git  
 Navigate to the project directory:
 bash
 Copy code
